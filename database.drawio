@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T15:47:54.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Gd6XJg0JGmRb_lIxvQNq" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T15:52:16.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uX0u41nGQCi1X-YDGiNI" version="21.4.0" type="github">
   <diagram name="Page-1" id="brCLmR2-d9eVzBDzP0hc">
     <mxGraphModel dx="1103" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
         <mxCell id="QsziBeY79ue7iAm4kdhe-172" value="1 admin; 2 nhân viên bán hàng; 3 nhân viên nhập hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815" y="490" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QsziBeY79ue7iAm4kdhe-192" value="user" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="QsziBeY79ue7iAm4kdhe-192" value="account" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="640" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="QsziBeY79ue7iAm4kdhe-193" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="QsziBeY79ue7iAm4kdhe-192">
