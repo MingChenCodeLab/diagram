@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T16:57:13.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EU2mXvNcw9KTvWJgr3yP" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T18:01:59.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9IyM_0s_oAXeQyz8taBz" version="21.4.0" type="github">
   <diagram name="Page-1" id="AY5aCEsH_-TEs7CG9HPi">
-    <mxGraphModel dx="1509" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="j72MVarRwJrg6eLjHR5--19" value="quản lý nhân viên" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="235" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j72MVarRwJrg6eLjHR5--21" value="Bình luận đánh giá sản phẩm&lt;br&gt;(review, rating, comment)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="80" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
